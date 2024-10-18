@@ -5,6 +5,12 @@
       "username": "Dmytro Moroz",
       "email": "sample@example.com",
       "status": "active"
+    },
+    {
+      "id": 2,
+      "username": "Fooo Jonse",
+      "email": "two@mail.com",
+      "status": "active"
     }
   ]
 }
